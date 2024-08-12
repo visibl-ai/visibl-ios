@@ -1,0 +1,20 @@
+//
+//  Release.xcconfig
+//  visibl
+//
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+APP_NAME = visibl
+PRODUCT_BUNDLE_IDENTIFIER = replace.me
+DEVELOPMENT_TEAM = replace.me
+APP_PROVISIONING_MAIN = replace.me
+// Firebase Service
+APP_GID_CLIENT_ID = replace.me
+APP_CLOUD_FUNC_REGION = replace.me
+//Google Sign in
+APP_CF_BUNDLE_URL_SCHEMES = replace.me
+//OPDS
+APP_CATALOGUE_URL = replace.me // without https://

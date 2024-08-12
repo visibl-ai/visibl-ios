@@ -1,0 +1,41 @@
+# Xcode
+build/
+*.pbxuser
+!default.pbxuser
+xcuserdata
+*.xccheckout
+*.moved-aside
+*.xcuserstate
+*.xcscmblueprint
+
+# Project specific
+contents.xcworkspacedata
+*.xcworkspace
+
+# Swift Package Manager
+Packages
+.swiftpm/xcode
+build/
+
+# CocoaPods
+Pods/
+Podfile
+Podfile.lock
+
+# Carthage
+Carthage/
+Cartfile
+Cartfile.resolved
+
+# Project defined
+
+*.xctestplan
+project.yml
+# IntelliJ AppCode
+.idea
+**/Debug.xcconfig
+GoogleService-Info.plist
+
+R2LCPClient/
+
+.DS_Store

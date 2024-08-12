@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "customThumb.pdf",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
